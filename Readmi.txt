@@ -1,0 +1,1 @@
+Gray=0.299×Red+0.587×Green+0.114×Blue
